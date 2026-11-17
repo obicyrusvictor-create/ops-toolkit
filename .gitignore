@@ -1,0 +1,8 @@
+recon/
+evidence/
+loot/
+reports/
+targets/
+*.token
+*.txt.bak
+verify-token.txt
