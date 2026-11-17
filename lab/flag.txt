@@ -1,1 +1,1 @@
-flag{lab_rce_3cc6296c4e3fcd79}
+flag{lab_rce_REPLACE_ME}
